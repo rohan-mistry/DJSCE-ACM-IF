@@ -1865,3 +1865,8 @@ box-shadow: 0 0 40px -5px rgba(0, 0, 0, 0.2);
     left:0;
   }
 }
+@media screen and (max-width:1200px){
+  .list_items{
+    font-size: 20px;
+  }
+}
