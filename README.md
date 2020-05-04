@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   
-  <img src="assets/images/acm-logo2.png" alt="Logo" width="100" height="100">
+  <img src="images/acm-logo2.png" alt="Logo" width="100" height="100">
   <h1 align="center">💼DJSCE ACM Internship Fair 2020</h1>
     <br/>
  
